@@ -203,18 +203,7 @@ import seaborn as sns         # Correlation heatmap
 
 ---
 
-## 🚀 How to Run
 
-```bash
-# Clone the repository
-git clone https://github.com/itsViru/E-Mobility_Market_Dynamics_Model.git
-cd E-Mobility_Market_Dynamics_Model
-
-# Install dependencies
-pip install pandas numpy scipy scikit-learn statsmodels matplotlib seaborn jupyter
-
-# Launch the notebook
-jupyter notebook Emobility_Market_Dynamics.ipynb
 ```
 
 The notebook is fully self-contained with inline comments explaining each analysis step.
