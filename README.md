@@ -243,7 +243,7 @@ The notebook is fully self-contained with inline comments explaining each analys
 | **University Supervisor** | Katharina Thoms, M.Sc. |
 | **Industry Supervisor** | Dr. Moritz Wollbrink (Numbat GmbH) |
 | **Submission Date** | September 2024 |
-| **Author** | Virendra Kowale (Matriculation No. 416856) |
+| **Author** | Virendra Kowale |
 
 ---
 
