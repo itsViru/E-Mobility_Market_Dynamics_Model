@@ -16,7 +16,7 @@
 
 ## 📌 Overview
 
-This master's thesis — conducted at **RWTH Aachen University** in collaboration with **[Numbat GmbH](https://www.numbat.de/)**, a European fast-charging infrastructure company — investigates the key factors driving EV adoption and charging infrastructure growth across **14 European countries**.
+This master's thesis, conducted at **RWTH Aachen University** in collaboration with **[Numbat GmbH](https://www.numbat.de/)**, a European fast-charging infrastructure company, investigates the key factors driving EV adoption and charging infrastructure growth across **14 European countries**.
 
 The research combines a **quantitative regression model** (Python) with **structured qualitative analysis** and a **multi-criteria incentive rating framework** to deliver actionable intelligence for stakeholders — EV manufacturers, charging infrastructure providers, and policymakers.
 
