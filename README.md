@@ -91,7 +91,6 @@ The heatmap below shows Pearson correlations between EV registrations and all in
 
 <img width="1132" height="808" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/c7d6fda2-3598-4379-9131-8717ba95a2d2" />
 
-
 **Key correlations with EV Registrations:**
 
 | Variable | Pearson r | P-value | Interpretation |
@@ -134,8 +133,7 @@ The model explains **73.5% of variance** in EV registrations. Two variables stan
 
 The chart below maps EV market ratings and charging infrastructure ratings against key quantitative outputs (EV registrations, DC/HPC/AC charging points, EPI score) for 14 European countries.
 
- <img width="1208" height="687" alt="comparative_analysis" src="https://github.com/user-attachments/assets/5019ec5d-c56d-457f-8e92-574664dbe48b" />
- 
+<img width="1208" height="687" alt="comparative_analysis" src="https://github.com/user-attachments/assets/5019ec5d-c56d-457f-8e92-574664dbe48b" />
 
 **Three clusters emerge:**
 
@@ -201,11 +199,6 @@ import seaborn as sns         # Correlation heatmap
 # ACEA, country-specific databases, Numbat GmbH internal data (2020–2023)
 ```
 
----
-
-
-```
-
 The notebook is fully self-contained with inline comments explaining each analysis step.
 
 ---
@@ -223,7 +216,7 @@ The notebook is fully self-contained with inline comments explaining each analys
 
 ## 🎓 Academic Context
 
-| | |
+| Detail | Info |
 |---|---|
 | **Institution** | RWTH Aachen University — Institute of Technology and Innovation Management |
 | **Chair** | Innovation, Strategy and Organization |
